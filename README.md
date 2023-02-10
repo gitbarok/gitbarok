@@ -1,5 +1,5 @@
 - 👋 Hi, I’m rizkymubarok
-- currently learning python for data analytics and data engineering stuff
+i'm currently learning python for data analytics and data engineering stuff
 
 <!---
 gitbarok/gitbarok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

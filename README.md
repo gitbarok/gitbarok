@@ -1,7 +1,7 @@
-- 👋 Hi, I’m rizkymubarok
-i'm currently learning python for data analytics and data engineering stuff
+<h4 align="center"><samp> Hi there 👋  welcome to my Github! I like Python 🐍 and I'm exploring data analytics and data engineering fields </samp></h4>
 
-<!---
-gitbarok/gitbarok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
+</p>
